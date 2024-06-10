@@ -9,12 +9,10 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "dependencies": {
+  "devDependencies": {
+    "mocha": "^10.4.0",
     "express": "^4.19.2",
     "jest": "^29.7.0",
     "supertest": "^7.0.0"
-  },
-  "devDependencies": {
-    "mocha": "^10.4.0"
   }
 }
